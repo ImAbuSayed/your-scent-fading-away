@@ -1,4 +1,4 @@
-# Your Scent Fading Away
+# Your Scent Fading Away, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Your Scent Fading Away |
+| **Title** | Your Scent Fading Away, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-scent-fading-away/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Your Scent Fading Away](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-fading-away/) |
+| **Get License** | [Obtain a Music License for Your Scent Fading Away, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-fading-away/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The candle flickers in the midnight air
+> I can still feel your fingers in my hair
+> Your sweet perfume is lingering in the room
+> A quiet promise in the silver moon
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b1798a27806dfd4dace41774fc246be99262d75d0389fa0839fd5ed238855490` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

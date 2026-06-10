@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Scent Fading Away, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Your Scent Fading Away, Vol. 2** (your-scent-fading-away-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-10T18:29:24.299296 | `v1` | `b1798a27806dfd4dace41774fc246be99262d75d0389fa0839fd5ed238855490` | `a6698d041ae8c9b3339adf7dc9236589ea547a86ab20b09fe059f3722eec186f` | `2026-06-10_your-scent-fading-away-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

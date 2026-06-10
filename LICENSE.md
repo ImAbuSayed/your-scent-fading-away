@@ -1,6 +1,6 @@
 # License
 
-**Your Scent Fading Away**
+**Your Scent Fading Away, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
